@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<superhero>
+ <description>
+    <name>Iron Man</name>
+    <power>Smart and Rich</power>
+    <equipment>Armored Suit</equipment>
+    <origin> He built a metal suit to escape captivity in a cave.</origin>
+    <headquarters>Stark Tower</headquarters>
+ </description>
+ <friend_list>
+    <friend1>War Machine</friend1>
+    <friend2>Pepper</friend2>
+    <friend3>Captain America</friend3>
+  </friend_list>
+  <enemy_list>
+    <enemy1>Whiplash</enemy1>
+    <enemy2>The Mandarin</enemy2>
+    <enemy3>Iron Monger</enemy3>
+  </enemy_list>
+  <weekness_list>
+    <weakness1>His dependence on the Arc Reactor</weakness1>
+    <weekness2>he depends on technology</weekness2>
+    <weekness_list>
+</superhero>
